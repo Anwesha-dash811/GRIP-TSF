@@ -1,1 +1,6 @@
 # GRIP-TSF
+GRIP-THE SPARKS FOUNDATION
+Data Science and Business Analytics Internship
+BY:Anwesha Subhadarshini Dash
+
+TASK 1:PREDICTION USING SUPERVISED MACHINE LEARNING
