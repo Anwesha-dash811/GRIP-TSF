@@ -1,6 +1,6 @@
 # GRIP-TSF
 GRIP-THE SPARKS FOUNDATION
-Data Science and Business Analytics Internship
+Computer Vision and IOT Internship
 BY:Anwesha Subhadarshini Dash
 
-TASK 1:PREDICTION USING SUPERVISED MACHINE LEARNING
+TASK 1:Optical Character Recognition(OCR)
